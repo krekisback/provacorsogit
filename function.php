@@ -1,6 +1,5 @@
 <?php
-	/* file di test per git e github */
-	/* Alex contribuisce */
+	
 	/* addizione */
 
 	function addizione (n1, n2) { retunr n1 + n2 }
@@ -8,10 +7,6 @@
 	/* sottrazione */
 
 	function sottrazione (n1, n2) { retunr n1 - n2 }
-	
-	/* sottrazione */
-
-	function moltiplicazione (n1, n2) { retunr n1 * n2 }
 	
 	/* divisione */
 	
