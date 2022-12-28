@@ -1,5 +1,5 @@
 <?php
-
+	/* file di test per git e github */
 	/* addizione */
 
 	function addizione (n1, n2) { retunr n1 + n2 }
